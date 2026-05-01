@@ -48,7 +48,7 @@ Certifications & Upskilling
 
 Homelab Projects
 
-https://github.com/anyangusimonk/Arabella-AD-Migration
+Arabella-AD-Migration
 
 *More projects being added regularly*
 
