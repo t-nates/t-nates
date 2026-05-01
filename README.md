@@ -1,7 +1,7 @@
 ## anyangusimonk
 # Hi, I'm Anyangu. K. Simon👋
 
-**Helpdesk Technician | IT Support Specialist | Aspiring Security Analyst**
+**Helpdesk Technician | IT Support Specialist |**
 
 >📍 Nairobi, Kenya - Currently open to Remote Helpdesk and IT Support Roles Globally
 > 📧 Feel free to connect - techynates@gmail.com    
@@ -46,9 +46,9 @@ Certifications & Upskilling
 - Security Analyst Level 1 (SAL1) — TryHackMe *(In Progress)*
 - CompTIA Network+ *(In Progress)*
 
-Homelab Projects
+## Homelab Projects
 
-Arabella-AD-Migration
+[Arabella-AD-Migration](https://github.com/anyangusimonk/Arabella-AD-Migration)
 
 *More projects being added regularly*
 
