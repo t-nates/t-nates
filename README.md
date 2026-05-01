@@ -47,6 +47,7 @@ Certifications & Upskilling
 - CompTIA Network+ *(In Progress)*
 
 Homelab Projects
+
 https://github.com/anyangusimonk/Arabella-AD-Migration
 
 *More projects being added regularly*
