@@ -8,9 +8,9 @@
 
 ## About Me
 
-IT Support professional based in Nairobi with a genuine curiosity about how systems work and a hands-on approach to building real skills. My background spans end-user support, Active Directory administration, and Identity & Access Management — experience I carry into a homelab where I simulate enterprise scenarios, document everything, and build a portfolio that reflects actual work, not just theory.
-I take initiative without waiting to be asked, work well independently, and treat every lab exercise like a production ticket.
-Currently pursuing a BSc in Computer Science alongside CompTIA Network+ and SAL1 certifications — deepening the foundation while working toward becoming a well-rounded Helpdesk Engineer ready for enterprise environments.
+IT Support professional based in Nairobi with a genuine curiosity about how systems work and a hands-on approach to building real skills. My background spans end-user support, Active Directory administration, and Identity & Access Management, experience I carry into a homelab where I simulate enterprise scenarios, document everything, and build a portfolio that reflects actual work, not just theory.
+I take initiative without waiting to be asked, work well independently without need for supervision, and treat every lab exercise like an active enterprise duty with SLAs to live up to.
+Currently pursuing a BSc in Computer Science alongside CompTIA Network+ and SAL1 certifications, deepening the foundations while working towards becoming a well-rounded Helpdesk Engineer ready for enterprise environments.
 
 ### What I bring:
 - Hands-on IAM & Active Directory experience
@@ -54,10 +54,10 @@ Windows Server & Client-side | Active Directory | PowerShell | VirtualBox | Azur
 
 ## A Bit More
 
-My path into IT isn't the most conventional one — I come from a background in Fine Arts and Holistic Wellness, which sounds unrelated until you realize that both fields are fundamentally about understanding 
+My path into IT isn't the most conventional one, I come from a background in Fine Arts and Holistic Wellness, which sounds unrelated until you realize that both fields are fundamentally about understanding 
 people, solving problems, and communicating clearly. Those same skills show up every day in helpdesk work. I built my homelab from scratch using free tools because I wanted to learn by doing, not by watching. 
 Everything in my portfolio represents real work. I can walk through, explain, and defend in an interview. If you are looking for someone who takes ownership, documents their work, and keeps learning without 
-being told to — let's talk.
+being told to then let's talk.
 
 
 
