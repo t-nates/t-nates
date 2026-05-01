@@ -48,7 +48,7 @@ Certifications & Upskilling
 
 ## Homelab Projects
 
-- [Arabella-AD-Migration](https://github.com/anyangusimonk/Arabella-AD-Migration)- Decentralized Workgroup to Centralied Active Directory domain migration and Data Integrity verification
+- [Arabella-AD-Migration: Decentralized Workgroup to Centralized Active Directory domain migration and Data Integrity verification](https://github.com/anyangusimonk/Arabella-AD-Migration)
 
 *More projects being added regularly*
 
