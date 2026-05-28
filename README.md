@@ -1,64 +1,64 @@
-# Hi, I'm Anyangu. K. Simon👋
+# Hi, I'm Anyangu K. Simon 👋
 
-**Helpdesk Technician | IT Support Specialist |**
+**IT Support Specialist | Active Directory & IAM | Remote-Ready**
 
->📍 Nairobi, Kenya - Currently open to Remote Helpdesk and IT Support Roles Globally.   
-> 🔗 Feel free to connect - [LinkedIn](https://linkedin.com/in/anyangusimonk) | techynates@gmail.com
+📍 Nairobi, Kenya — Available for global remote roles via EOR (Deel, Remote.com, Oyster)  
+📧 [techynates@gmail.com](mailto:techynates@gmail.com) | [LinkedIn](https://linkedin.com/in/anyangusimonk)
 
-## About Me
+---
 
-IT Support professional based in Nairobi with a genuine curiosity about how systems work and a hands-on approach to building real skills. My background spans end-user support, Active Directory administration, and Identity & Access Management, experience I carry into a homelab where I simulate enterprise scenarios, document everything, and build a portfolio that reflects actual work, not just theory.
-I take initiative without waiting to be asked, work well independently without need for supervision, and treat every lab exercise like an active enterprise duty with SLAs to live up to.
-Currently pursuing a BSc in Computer Science alongside CompTIA Network+ and SAL1 certifications, deepening the foundations while working towards becoming a well-rounded Helpdesk Engineer ready for enterprise environments.
+## What I Do
 
-### What I bring:
-- Hands-on IAM & Active Directory experience
-- End-to-end documentation habits
-- Phone, email & chat-based support across client-facing roles
-- Skills built for real environments, not just coursework
+I build enterprise IT infrastructure in a homelab, document it like production, and make it defensible in an interview.
 
-## Technical Skills
+My path into IT isn't the most conventional one. My background spans Fine Arts and Holistic Wellness, both disciplines have trained me in creative thinking to design solutions, empathy, and problem-solving under pressure. I apply those skills daily in IT support: diagnosing issues creatively when standard fixes fail, communicating clearly with frustrated users, and staying composed during high-stress incidents. Technical solutions, delivered with human understanding.
+I don't wait to be told what to learn. I pursue it, build it, break it, fix it, and document the whole process.
 
-Operating Systems: Windows Server 2019/2022/2025, Windows 7/8/10/11, macOS, Linux
+---
 
-Support Tools: Active Directory (AD DS), Microsoft 365, ServiceNow, Zendesk, Jira, osTicket, Peppermint, TeamViewer, Remote Desktop Protocol (RDP), VPN
+## The Arabella Inc. Infrastructure Series
 
-Networking: TCP/IP, DNS, DHCP, IP Configuration, Network Troubleshooting, Basic Routing
+A progressive modernization journey from decentralized workgroup to hardened domain;- 3 labs live, fully documented with evidence, scripts, and troubleshooting logs.
 
-Security Tools: Wireshark, Metasploit, Burp Suite, Cisco Packet Tracer
+| Lab | What It Proves | Status |
+|-----|---------------|--------|
+| [Lab 1: AD Migration & IAM](https://github.com/anyangusimonk/Arabella-AD-Migration) | Built 28-user AD domain from scratch, SHA256-verified data integrity | ✅ Complete |
+| [Lab 2: Password Policy & Access Control](https://github.com/anyangusimonk/Arabella-Inc-Password-Policy-Enforcement) | Two-tier password enforcement, lockout testing, Event ID 4740 resolution | ✅ Complete |
+| [Lab 3: Network Security Hardening](https://github.com/anyangusimonk/Security-Hardening-Pt2-LLMNR-Poisoning-Domain-Network-Fortification-) | Controlled LLMNR/NBT-NS/mDNS poisoning, layered mitigation, Hashcat       validation | ✅ Complete |
 
-Automation and Integration: n8n, Zapier, Make (Integromat), API Integration
+**[→ Explore the full series](https://github.com/anyangusimonk/Arabella-Inc.-Infrastructure-Series)**
 
-Core Competencies: Incident Management, Ticket Triage, SLA Adherence, Hardware Troubleshooting, Software Installation and Configuration, Printer and Peripheral Support, Password Reset and Account Management, 
-Remote Desktop Support, IT Documentation, Asset Management, Onboarding and Offboarding, Identity and Access Management (IAM), Group Policy Objects (GPO), Principle of Least Privilege (PoLP)
+---
 
-Education
-- BSc Computer Science — University of the People *(In Progress)* - Expected Completion date August 2028
+## Core Skills
 
-Certifications & Upskilling
+**Systems & Platforms:** Windows Server 2019/2022/2025, Windows 7/8/10/11, macOS, Linux  
+**Identity & Access:** Active Directory (AD DS), Azure AD, Okta, IAM, GPO, PoLP, account lifecycle management  
+**Support Stack:** Microsoft 365, ServiceNow, Zendesk, Jira, osTicket, TeamViewer, RDP, VPN  
+**Networking:** TCP/IP, DNS, DHCP, IP configuration, network troubleshooting  
+**Automation:** PowerShell, n8n, Zapier, Make (Integromat)  
+**Security Awareness:** Wireshark, password policy design, network vulnerability identification, defense-in-depth  
+**Operations:** Incident management, ticket triage, SLA adherence, IT documentation, onboarding/offboarding
 
-- CompTIA A+ Core I and II
-- Practical Help Desk Associate (PHDA) — TCM Security
-- Cyber Security 101 — TryHackMe
-- Security Analyst Level 1 (SAL1) — TryHackMe *(In Progress)*
-- CompTIA Network+ *(In Progress)*
+---
 
-## Homelab Projects
-These are hands-on lab projects built in a simulated enterprise environment using free and open source tools. Each project is fully documented with evidence, scripts, and a write-up explaining the business problem, solution, and outcome. 
-Windows Server & Client-side | Active Directory | PowerShell | VirtualBox | Azure AD | Okta | Wireshark | Burp Suite | ServiceNow | Zendesk | Microsoft 365 | Jira | osTicket | VMware
+## Certifications
 
-- [Arabella AD-Migration: Decentralized Workgroup to Centralized Active Directory domain migration and Data Integrity verification](https://github.com/anyangusimonk/Arabella-AD-Migration)
-- [Arabella AD-Security Hardening Pt1: Password Policy Enforcement](https://github.com/anyangusimonk/Arabella-Inc-Password-Policy-Enforcement)
-- [Arabella AD-Security Hardening Pt2: Network Security Fortification Against LLMNR, NBT-NS, mDNS & SMB Protocols](https://github.com/anyangusimonk/ArabellaInc.-Network-Security-Fortification-)
+- **CompTIA A+** Core I and II — *Certified*
+- **Practical Help Desk Associate (PHDA)** — TCM Security — *Certified*
+- **Cyber Security 101** — TryHackMe — *Certified*
+- **CCNA** — *In Progress*
+- **BSc Computer Science** — University of the People — *Part-Time, Expected August 2028*
 
-*Updated regularly as new labs are completed*
+---
 
-## A Bit More
+## Remote Work Readiness
 
-My path into IT isn't the most conventional one, I come from a background in Fine Arts and Holistic Wellness, which sounds unrelated until you realize that both fields are fundamentally about understanding 
-people, solving problems, and communicating clearly. Those same skills show up every day in helpdesk work. I built my homelab from scratch using free tools because I wanted to learn by doing, not by watching. 
-Everything in my portfolio represents real work. I can walk through, explain, and defend in an interview. If you are looking for someone who takes ownership, documents their work, and keeps learning without 
-being told to then let's talk.
+- **Infrastructure:** Fiber internet with UPS power backup
+- **Language:** Native English speaker
+- **Timezone:** EAT (UTC+3) with overlap for GMT, CET, and US Eastern
+- **Engagement:** Contract-ready via EOR platforms. Currently seeking for opportunities
 
+---
 
-
+*Built in a homelab. Documented like production. Ready for enterprise.*
