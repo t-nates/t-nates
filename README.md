@@ -9,9 +9,8 @@
 
 ## What I Do
 
-I build enterprise IT infrastructure in a homelab, document it like production, and make it defensible in an interview.
-
-My path into IT isn't the most conventional one. My background spans Fine Arts and Holistic Wellness, both disciplines have trained me in creative thinking to design solutions, empathy, and problem-solving under pressure. I apply those skills daily in IT support: diagnosing issues creatively when standard fixes fail, communicating clearly with frustrated users, and staying composed during high-stress incidents. Technical solutions, delivered with human understanding.
+I build enterprise IT infrastructure in a Homelab.
+My path into IT isn't the most conventional one. My background spans Fine Arts and Holistic Wellness, both disciplines have trained me in creative thinking to design solutions, empathy, and problem-solving under pressure. I apply those skills daily in IT support: diagnosing issues creatively when standard fixes fail, communicating clearly with frustrated users, non-technical language, and staying composed during high-stress incidents. Technical solutions, delivered with human understanding.
 I don't wait to be told what to learn. I pursue it, build it, break it, fix it, and document the whole process.
 
 ---
@@ -56,8 +55,8 @@ A progressive modernization journey from decentralized workgroup to hardened dom
 
 - **Infrastructure:** Fiber internet with UPS power backup
 - **Language:** Native English speaker
-- **Timezone:** EAT (UTC+3) with overlap for GMT, CET, and US Eastern
-- **Engagement:** Contract-ready via EOR platforms. Currently seeking for opportunities
+- **Timezone:** EAT (UTC+3) with overlap for GMT, CET, and US Eastern time.
+- **Engagement:** Currently seeking for opportunities
 
 ---
 
