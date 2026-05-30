@@ -2,7 +2,7 @@
 
 **IT Support Specialist | Active Directory & IAM | Remote-Ready**
 
-📍 Nairobi, Kenya — Available for global remote roles via EOR (Deel, Remote.com, Oyster)  
+📍 Nairobi, Kenya — Global remote via EOR | Open to hybrid in Nairobi 
 📧 [techynates@gmail.com](mailto:techynates@gmail.com) | [LinkedIn](https://linkedin.com/in/anyangusimonk)
 
 ---
