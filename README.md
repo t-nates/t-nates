@@ -43,10 +43,13 @@ A progressive modernization journey from decentralized workgroup to hardened dom
 
 ## Certifications
 
-- **CompTIA A+** Core I and II — *Certified*
-- **Practical Help Desk Associate (PHDA)** — TCM Security — *Certified*
-- **Cyber Security 101** — TryHackMe — *Certified*
-- **CCNA** — *In Progress*
+- **CompTIA A+**  
+- **Practical Help Desk Associate (PHDA)** — TCM Security 
+- **Cyber Security 101** — TryHackMe 
+
+- **Current Development:** *Security Analyst Level 1 (SAL1) — TryHackMe (In Progress) | Cisco Certified Network Associate (CCNA) (Expected Q3 2026)*
+
+  ## Education
 - **BSc Computer Science** — University of the People — *Part-Time, Expected August 2028*
 
 ---
@@ -60,4 +63,4 @@ A progressive modernization journey from decentralized workgroup to hardened dom
 
 ---
 
-*Built in a homelab. Documented like production. Ready for enterprise.*
+*Built in a homelab. Documented like production. Ready for Enterprise.*
